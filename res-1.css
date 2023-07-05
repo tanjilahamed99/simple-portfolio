@@ -1,0 +1,262 @@
+@media screen and (max-width:428px){
+    body{
+        background-size: 100%  200px;
+        background-repeat: no-repeat;
+      }
+      .text h1{
+        width: 77%;
+        font-size: 15px;
+        line-height: 20px;
+        margin-left: 29px;
+      }
+      .text h3{
+        width: 95%;
+        margin-left: -5%;
+        margin-top: -4px;
+        font-size: 9px;
+        line-height: 16px;
+      }
+      .contact h5{
+        width: 22%;
+        margin-left: 128px;
+        padding: 5px;
+        font-size: 10px;
+        margin-top: -2px;
+      }
+      .img img{
+        width: 72%;
+        margin-top: 30%;
+        margin-left: 15px;
+      }
+      .text-2 h2{
+        width: 95%;
+        margin-top: 39%;
+        margin-left: -3%;
+        font-size: 15px;
+        line-height: 20px;
+      }
+      .text-2 h5{
+        width:89%;
+        font-weight: 1;
+        font-size: 9px;
+        line-height: 16px;
+        margin-top: -4%;
+        margin-left: -2%;
+      }
+      .text-2 p{
+        margin-top: -4%;
+        font-size: 9px;
+        line-height: 16px;
+        margin-left: -2%;
+      }
+      .text-2 i{
+        width: 3%;
+      }
+      .plan h2{
+        margin-top: 84%;
+        text-align: center;
+        font-size: 20px;
+        line-height: 16px;
+      }
+      .left-plan{
+        width:100%;
+        float: none;
+      }
+      .right-plan{
+        width: 100%;
+        float: none;
+      }
+      .wev{
+        width: 100%;
+        float: none;
+      }
+      .java{
+        width: 100%;
+        float: none;
+      }
+      .smoke{
+        width: 100%;
+        float: none;
+      }
+      .ecom{
+        width: 100%;
+        float: none;
+     }
+     .wev img{
+      margin-left: 43%;
+      width: 14%;
+      margin-top: 50px;
+    }
+    .wev h2{ 
+      margin-left: 36%;
+      width: 68%;
+      margin-top: 4px;
+      font-size: 14px;
+    }
+    .wev p{
+      margin-left: 41%;
+      font-size: 13px;
+      margin-top: -7px;
+    }
+
+    .java img{
+      margin-left: 43%;
+      width: 14%;
+      margin-top: 50px;
+    }
+    .java h2{ 
+      margin-left: 42%;
+      margin-top: 4px;
+      font-size: 14px;
+    }
+    .java p{
+      margin-left: 41%;
+      font-size: 13px;
+      margin-top: -7px;
+    }
+
+    .smoke img{
+      margin-left: 43%;
+      width: 14%;
+      margin-top: 50px;
+    }
+    .smoke h2{ 
+      margin-left: 39%;
+      margin-top: 4px;
+      font-size: 14px;
+    }
+    .smoke p{
+      margin-left: 42%;
+      font-size: 13px;
+      margin-top: -7px;
+    }
+
+    .ecom img{
+      margin-left: 43%;
+      width: 14%;
+      margin-top: 50px;
+    }
+    .ecom h2{ 
+      margin-left: 43%;
+      margin-top: 4px;
+      font-size: 14px;
+    }
+    .ecom p{
+      margin-left: 41%;
+      font-size: 13px;
+      margin-top: -7px;
+    }
+    .mid-3{
+      background-size: 98%;
+      width: 78%;
+      margin-top: 52px;
+      margin-left: 57px;
+    }
+    .mid-3 h1{
+      width: 50%;
+      font-size: 15px;
+      line-height: 16px;
+      margin-left: 21px;
+      padding-top: 2px;
+    }
+    .mid-3 h4{
+      width: 13%;
+      margin-left: 18px;
+      padding: 2px;
+      font-size: 9px;
+    }
+    .future{
+      width:100%;
+      float:none;
+    }
+    .suscribe{
+      width:100%;
+      float: none;
+    }
+    /*future*/
+    .future h1{
+      margin-left: 29px;
+      margin-top: 48px;
+      font-size: 15px;
+      line-height: 16px;
+    }
+    .future h5{
+      margin-left: 29px;
+      width: 58%;
+      margin-top: -5px;
+      line-height:16px;
+      font-size: 13px;
+    }
+    .future h3{
+      margin-left: 29px;
+      font-size: 14px;
+    }
+    .fb{
+      width: 33%;
+      float: left;
+    }
+    .twitter{
+      width: 33%;
+      float: left;
+    }
+    .yoytube{
+      width: 33%;
+      float: left;
+    }
+    .fb img{
+      width: 20%;
+      margin-left: 38px;
+    }
+    .twitter img{
+      width: 20%;
+      margin-left: -51px;
+    }
+    .youtube img{
+      width: 7%;
+      margin-left: -142px;
+    }
+    /*suscribe*/
+    .suscribe h2{
+      margin-left: 29px;
+      margin-top: 56px;
+      font-size: 16px;
+      line-height: 16px; 
+    }
+    .suscribe input{
+      margin-left: 29px;
+      position: absolute;
+      width: 293px;
+      height: 30px;
+      margin-top:-5px;
+      color: black;
+      font-size: 10px;
+    }
+    .suscribe h3{
+      margin-left: 29px;
+      margin-top: 64px;
+      height: 19px;
+      width: 17%;
+      font-size: 15px;
+      line-height: 16px;
+      border-radius: 5px;
+    }
+}
+@media screen and (min-width:360px) and (max-width:410px) {
+  .contact h5{
+    width: 27%;
+    margin-left: 103px;
+  }
+  .mid-3 h1{
+    width: 67%;
+    font-size: 16px;
+    line-height: 14px;
+    margin-left: 14px;
+    margin-top: 8px;
+  }
+  .mid-3 h4{
+    width: 13%;
+    margin-left: 14px;
+    padding: 2px;
+   margin-top:-5px;
+  }
+}

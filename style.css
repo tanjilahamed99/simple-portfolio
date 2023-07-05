@@ -1,0 +1,316 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(images/banner1.png);
+  background-size: 100%  500px;
+  background-repeat: no-repeat;
+}
+.text{
+  margin-left: 50%;
+  margin-top: 9%;
+}
+.text h1{
+  width: 77%;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  text-align: right;
+  color: #151414;
+}
+.text h3{
+  width: 58%;
+  text-align: right;
+  margin-left: 18%;
+  margin-top: -34px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+}
+.contact h5{
+  width: 11%;
+  text-align: right;
+  margin-left: 424px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #e67e22;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+.img{
+  width: 50%;
+  float: left;
+}
+.img img{
+  width: 77%;
+  margin-top: 13%;
+  margin-left: 25%;
+}
+.text-2{
+  width: 50%;
+  float: left;
+}
+.text-2 h2{
+  width: 34%;
+  margin-top: 42%;
+  margin-left: 5%;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+
+}
+.text-2 h5{
+  width:45%;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 1;
+  font-size: 16px;
+  line-height: 26px;
+  margin-top: -4%;
+  margin-left: 5%;
+  color: #444343;
+}
+.text-2 p{
+  margin-top: -3%;
+  font-size: 16px;
+  line-height: 30px;
+  margin-left: 9%;
+  font-weight: 1;
+  color: #444343;
+}
+.text-2 i{
+  color: green;
+}
+.plan h2{
+  margin-top: 66%;
+  text-align: center;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+}
+.left-plan{
+  width:50%;
+  float: left;
+}
+.right-plan{
+  width: 50%;
+  float: left;
+}
+.wev{
+  width: 50%;
+  float: left;
+}
+.java{
+  width: 50%;
+  float: left;
+}
+.smoke{
+  width: 50%;
+  float: left;
+}
+.ecom{
+  width: 50%;
+  float: left;
+}
+
+
+.wev img{
+  margin-left: 79%;
+  width: 23%;
+}
+.wev h2{ 
+  margin-left: 61%;
+  width: 68%;
+  margin-top: 4px;
+}
+.wev p{
+  margin-left: 76%;
+  width: 50%;
+  margin-top: -11px;
+  color: #444343;
+}
+.java img{
+  margin-left: 55%;
+  width: 23%;
+}
+.java h2{
+  margin-left: 50%;
+  margin-top: 4px;
+}
+.java p{
+  margin-left: 52%;
+  margin-top: -11px;
+  color: #444343;
+}
+.smoke img{
+  margin-left: 30%;
+  width: 23%;
+}
+.smoke h2{
+  margin-left: 20%;
+  margin-top: 4px;
+}
+.smoke p{
+  margin-top: -11px;
+  margin-left: 99px;
+  color: #444343;
+}
+
+.ecom img{
+  margin-left: 0%;
+  width: 23%;
+}
+.ecom h2{
+  margin-left: -3%;
+  margin-top: 4px;
+}
+.ecom p{
+  margin-top: -11px;
+  margin-left: -6px;
+  color: #444343;
+}
+
+.mid-3{
+  background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(images/watch.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 68%;
+  margin-top: 260px;
+  margin-left: 206px;
+  border-radius: 8px;
+  position: absolute;
+}
+.mid-3 h1{
+  width: 50%;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  margin-left: 70px;
+  padding-top: 34px;
+  color: #fff;
+}
+.mid-3 h4{
+  width: 13%;
+  margin-left: 71px;
+  padding: 5px;
+  background-color: white;
+  color: #e67e22;
+  text-align: center;
+}
+footer:after{
+  contain: "";
+  display: block;
+  clear: both;
+}
+footer{
+  position: absolute;
+  margin-top: 50%;
+  background-color:  #151414;
+}
+.future{
+  width:50%;
+  float:left;
+}
+.suscribe{
+  width:50%;
+  float: left;
+}
+.future h1{
+  margin-left: 201px;
+  margin-top: 36px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 53px;
+  color: #F8F8F8;
+}
+.future h5{
+  margin-left: 201px;
+  width: 58%;
+  margin-top: -22px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #F8F8F8;
+}
+.future h3{
+  margin-left: 201px;
+  margin-top: 0px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #F8F8F8;
+}
+.fb{
+  width: 33%;
+  float: left;
+}
+.twitter{
+  width: 33%;
+  float: left;
+}
+.yoytube{
+  width: 33%;
+  float: left;
+}
+.fb img{
+  margin-left: 197px;
+}
+.twitter img{
+  margin-left: 29px;
+}
+.youtube img{
+  margin-left: -135px;
+}
+.suscribe h2{
+  margin-left: 182px;
+  margin-top: 52px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 29px; 
+  color: #F8F8F8;
+}
+.suscribe input{
+  margin-left: 182px;
+  position: absolute;
+  width: 293px;
+  height: 42px;
+  margin-top:-5px;
+  border-radius: 5px;
+  color: #F8F8F8;
+}
+.suscribe h3{
+  margin-left: 182px;
+  margin-top: 80px;
+  height: 33px;
+  width: 17%;
+  background-color: #F8F8F8;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #F15B22;
+  text-align: center;
+  border-radius: 5px;
+}

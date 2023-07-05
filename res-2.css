@@ -1,0 +1,185 @@
+@media screen and (min-width:810px) and (max-width:1000px) {
+    body{
+        background-size: 100%  365px;
+      }
+    .text h1{
+        width: 77%;
+        font-size: 30px;
+        line-height: 30px;
+        margin-top: 126px;
+        margin-left: 43px;
+      }
+      .text h3{
+        margin-left: 29%;
+        margin-top: -15px;
+        font-size: 14px;
+      }
+      .contact h5{
+        width: 17%;
+        margin-left: 271px;
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 15px;
+        margin-top: -8px;
+      }
+      .img img{
+        width: 70%;
+        margin-top: 29%;
+      }
+      .text-2 h2{
+        width: 105%;
+        margin-top: 42%;
+        margin-left: 5%;
+        font-size: 30px;
+        line-height: 35px;
+        color: #151414;
+      }
+      .text-2 h5{
+        width:78%;
+        font-size: 14px;
+        line-height: 26px;
+        margin-top: -4%;
+        margin-left: 5%;
+        color: #444343;
+      }
+      .text-2 p{
+        margin-top: -5%;
+        font-size: 16px;
+        line-height: 30px;
+        margin-left: 5%;
+      }
+      .plan h2{
+        margin-top: 76%;
+        text-align: center;
+        font-size: 30px;
+        line-height: 47px;
+      }
+      /*plan-2*/
+      .wev img{
+        margin-left: 79%;
+        width: 20%;
+      }
+      .wev h2{ 
+        margin-left: 52%;
+        width: 71%;
+        margin-top: 4px;
+        font-size: 18px;
+      }
+      .wev p{
+        margin-left: 65%;
+      }
+
+      .java img{
+        margin-left: 55%;
+        width: 20%;
+      }
+      .java h2{
+        margin-left: 45%;
+        margin-top: 4px;
+        font-size: 18px;
+      }
+      .java p{
+        margin-left: 43%;
+        margin-top: -11px;
+      }
+
+      .smoke img{
+        margin-left: 30%;
+        width: 20%;
+      }
+      .smoke h2{
+        margin-left: 13%;
+        margin-top: 4px;
+        font-size: 18px;
+      }
+      .smoke p{
+        margin-top: -11px;
+        margin-left: 43px;
+        color: #444343;
+      }
+      
+      .ecom img{
+        margin-left: 0%;
+        width: 20%;
+      }
+      .ecom h2{
+        margin-left: -9%;
+        margin-top: 4px;
+        font-size: 18px;
+      }
+      .ecom p{
+        margin-top: -11px;
+        margin-left: -27px;
+        color: #444343;
+      }
+      .mid-3{
+        width: 71%;
+        margin-top: 195px;
+        margin-left: 106px;
+      }
+      .mid-3 h1{
+        font-size: 30px;
+        line-height: 30px;
+        margin-left: 37px;
+        padding-top: 0px;
+      }
+      .mid-3 h4{
+        width: 13%;
+        margin-left: 38px;
+        padding: 5px;
+        background-color: white;
+        color: #e67e22;
+        text-align: center;
+        margin-top: -8px;
+      }
+      /*footer*/
+      .future h1{
+        margin-left: 104px;
+        margin-top: 64px;
+        font-size: 30px;
+        line-height: 53px;
+      }
+      .future h5{
+        margin-left: 104px;
+        width: 58%;
+        margin-top: -16px;
+        font-size: 16px;
+      }
+      .future h3{
+        margin-left: 104px;
+        margin-top: -2px;
+    }
+    .fb img{
+        margin-left: 96px;
+      }
+      .twitter img{
+        margin-left: 24px;
+      }
+      .youtube img{
+        margin-left: -48px;
+      }
+      .suscribe h2{
+        margin-left: 88px;
+        margin-top: 78px;
+        font-size: 25px;
+        line-height: 29px; 
+       }
+      .suscribe input{
+        margin-left: 86px;
+        position: absolute;
+        width: 258px;
+        height: 33px;
+        margin-top: -9px;
+        border-radius: 5px;
+        color: black;
+      }
+      .suscribe h3{
+        margin-left: 88px;
+        margin-top: 67px;
+        height: 28px;
+        width: 27%;
+        font-size: 20px;
+        line-height: 24px;
+        border-radius: 5px;
+       }
+}
